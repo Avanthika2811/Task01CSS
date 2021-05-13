@@ -1,0 +1,78 @@
+.Glintlit
+{
+    margin-left: 20px;
+}
+
+.web
+{
+    margin-left: 690px;
+}
+.main
+{
+    width: 1440px;
+    height: 700px;
+    background:aqua;
+    
+}
+.sub
+{
+    background:aqua;
+    height: 600px;
+    width:1440px;
+}
+.box1
+{
+    padding-left: 40px;
+    padding-top: 10px;
+    width: 300px;
+    height: 400px;
+    background:aqua;
+    float: left;
+}
+.box2
+{
+    background: aqua;
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin-left: 10px;
+    padding-left: 40px;
+    padding-top: 10px;
+    border-left:5px solid gold;
+    border-right: 5px solid gold;
+    
+
+}
+.box3
+{
+    background: aqua;
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin-left: 40px;
+    padding-left: 40px;
+    padding-top: 10px;
+    border-left:5px solid gold;
+    border-right: 5px solid gold;
+
+}
+.box4
+{
+    width: 300px;
+    height: 400px;
+    background: aqua;
+    float: left;
+    margin-left: 10px;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+
+#ul
+{
+    color: blue;
+}
+
+#ul2
+{
+    color: blue;
+}
